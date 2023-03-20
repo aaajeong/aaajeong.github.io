@@ -3,12 +3,16 @@ papers:
     image: "/assets/publications/2023_regen/image.png"
     authors: "<b>Ahjeong Park</b>, Youngmi Park, Chulyun Kim"
     venue: "IEEE Access 투고 준비 중"
+    code: ""
+    slides: ""
     selected: y
 
   - title: "ALSI-Transformer: Transformer-Based Code Comment Generation with Aligned Lexical and Syntactic Information"
     image: "/assets/publications/2022_alsi/image.png"
     authors: "Youngmi Park, <b>Ahjeong Park</b>, Chulyun Kim"
     venue: "IEEE Access 심사중"
+    code: ""
+    slides: ""
     selected: y
 
   - title: "코드 주석 생성 품질 개선을 위한 AST 순회 방법에 관한 연구"
@@ -17,6 +21,7 @@ papers:
     venue: "2022 한국컴퓨터종합학술대회"
     paper_pdf: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113575"
     poster: "/assets/publications/2022_ast/poster.pdf"
+    code: "https://github.com/KIE-KID/CodeSBT.git"
     selected: y
 
   - title: "RNN의 새로운 앙상블 기법을 통한 Seq2Seq 모델 성능 개선"
@@ -25,4 +30,6 @@ papers:
     venue: "2021 한국소프트웨어종합학술대회"
     paper_pdf: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035617"
     poster: "/assets/publications/2021_rnn_ensemble/poster.pdf"
+    code: "https://github.com/aaajeong/Time-Step-Ensemble"
+    code: "https://github.com/aaajeong/Time-Step-Ensemble-in-Arithmetic"
     selected: y
