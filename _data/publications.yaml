@@ -2,7 +2,7 @@ papers:
   - title: "REGEN: Recurrent Ensemble Methods for Generative Models"
     image: "/assets/publications/2023_regen/image.png"
     authors: "<b>Ahjeong Park</b>, Youngmi Park, Chulyun Kim"
-    venue: "IEEE Access 투고 준비 중"
+    venue: "2023, IEEE Access 투고 준비 중"
     code: ""
     slides: ""
     selected: y
@@ -10,7 +10,7 @@ papers:
   - title: "ALSI-Transformer: Transformer-Based Code Comment Generation with Aligned Lexical and Syntactic Information"
     image: "/assets/publications/2022_alsi/image.png"
     authors: "Youngmi Park, <b>Ahjeong Park</b>, Chulyun Kim"
-    venue: "IEEE Access 심사중"
+    venue: "2023, IEEE Access 심사중"
     code: ""
     slides: ""
     selected: y
