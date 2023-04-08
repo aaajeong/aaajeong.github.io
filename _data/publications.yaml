@@ -3,23 +3,23 @@ papers:
     image: "/assets/publications/2023_regen/image.png"
     authors: "<b>Ahjeong Park</b>, Youngmi Park, Chulyun Kim"
     venue: "2023, IEEE Access 투고 준비 중"
-    code: ""
-    slides: ""
+    code: "https://github.com/aaajeong/Ensemble-for-Generative-Models.git"
+    slides: "/assets/publications/2023_regen/REGEN.pdf"
     selected: y
 
   - title: "ALSI-Transformer: Transformer-Based Code Comment Generation with Aligned Lexical and Syntactic Information"
     image: "/assets/publications/2022_alsi/image.png"
     authors: "Youngmi Park, <b>Ahjeong Park</b>, Chulyun Kim"
     venue: "2023, IEEE Access 심사중"
-    code: ""
-    slides: ""
+    code: "https://github.com/KIE-KID/ALSI-Transformer.git"
+    slides: "/assets/publications/2022_alsi/ALSI.pdf"
     selected: y
 
   - title: "코드 주석 생성 품질 개선을 위한 AST 순회 방법에 관한 연구"
     image: "/assets/publications/2022_ast/image.png"
     authors: "Youngmi Park, <b>Ahjeong Park</b>, Chulyun Kim"
     venue: "2022 한국컴퓨터종합학술대회"
-    paper_pdf: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113575"
+    paper_pdf: "/assets/publications/2022_ast/paper.pdf"
     poster: "/assets/publications/2022_ast/poster.pdf"
     code: "https://github.com/KIE-KID/CodeSBT.git"
     selected: y
