@@ -28,7 +28,7 @@ papers:
     image: "/assets/publications/2021_rnn_ensemble/image.png"
     authors: "<b>Ahjeong Park</b>, Chulyun Kim"
     venue: "2021 한국소프트웨어종합학술대회"
-    paper_pdf: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035617"
+    paper_pdf: "/assets/publications/2021_rnn_ensemble/paper.pdf"
     poster: "/assets/publications/2021_rnn_ensemble/poster.pdf"
     code: "https://github.com/aaajeong/Time-Step-Ensemble"
     code: "https://github.com/aaajeong/Time-Step-Ensemble-in-Arithmetic"
