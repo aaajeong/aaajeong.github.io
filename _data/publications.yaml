@@ -10,7 +10,7 @@ papers:
   - title: "ALSI-Transformer: Transformer-Based Code Comment Generation with Aligned Lexical and Syntactic Information"
     image: "/assets/publications/2022_alsi/image.png"
     authors: "Youngmi Park, <b>Ahjeong Park</b>, Chulyun Kim"
-    venue: "2023, IEEE Access 심사중"
+    venue: "2023, IEEE Access"
     code: "https://github.com/KIE-KID/ALSI-Transformer.git"
     slides: "/assets/publications/2022_alsi/ALSI.pdf"
     selected: y
